@@ -1,0 +1,197 @@
+
+.comman{
+    position: absolute;
+width: 1518.9px;
+height: 740px;
+left: 0px;
+background: linear-gradient(91.99deg, #000000 -1.19%, rgba(0, 0, 0, 0) 73.82%);
+margin: 0px;
+background-color: #111;
+}
+
+.comman_intro{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 30px;
+gap: 10px;
+padding-top: 30px;
+position: absolute;
+width: 167px;
+height: 183px;
+ left: 90px;
+border-radius: 10px 10px 0 0;
+
+}
+.comman-content{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 100px;
+
+height: 46px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.comman-content>h1{
+    position: absolute;
+width: 761px;
+height: 142px;
+left: 60.5px;
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 600;
+font-size: 70px;
+line-height: 142px;
+
+color: #FFFFFF;
+
+}
+
+.comman_image{
+ background-image: url(../assets/comman.png);  
+ background-size: cover;
+ width: 1342.5px;
+ margin-left: 80px;
+height: 700px;
+}
+.comman-content>.comman_watchlist>p{
+    position: absolute;
+    width: 176.25px;
+    font-weight: 500;
+    height: 45px;
+    left: 980.5px;
+    bottom: 200px;
+    color: #FFFFFF;
+}
+.comman-content>.comman_watchlist>img{
+    position: absolute;
+    font-weight: 500;
+    left: 1000.5px;
+    bottom: 270px;
+    color: #FFFFFF;
+}
+.comman-content>.comman_share>p{
+    position: absolute;
+    width: 176.25px;
+    font-weight: 500;
+    height: 45px;
+    left: 1090.5px;
+    bottom: 200px;
+    color: #FFFFFF;
+}
+.comman-content>.comman_share>img{
+    position: absolute;
+    font-weight: 500;
+    left: 1090.5px;
+    bottom: 270px;
+    color: #FFFFFF;
+}
+.play>button{
+    position: absolute;
+    width: 60px;
+   height: 60px;
+   border-radius: 50%;
+    left: 1180.5px;
+    bottom: 230px;
+    /* top: 100.5px; */
+    color: #FFFFFF; 
+    background-color: red;
+}
+.comman-content>h1{
+    position: absolute;
+   
+    left: 30.5px;
+    bottom: 120px;
+    color: #FFFFFF;
+    font-family: Oswald;
+font-size: 94px;
+font-weight: 500;
+line-height: 139px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.comman>.comman_details{
+   
+  background-color: #111; 
+    
+}
+.comman>.comman_details>p{
+    color: #FFFFFF;
+    width: 1200px;
+    margin-left: 100px;
+    padding-top: 30px;
+    font-family: Overpass;
+font-size: 32px;
+font-weight: 400;
+line-height: 41px;
+letter-spacing: 0.03em;
+text-align: left;
+
+}
+.comman_details>.imdb{
+    width: 390.383323669433594px;
+height: 26.83483123779297px;
+font-weight: bold;
+color:#727171;
+/* top: 913.036376953125px; */
+margin-left: 123.43975830078125px;
+padding-top: 50px;
+
+}
+.imdb>p{
+    width: 390.53333568572998px;
+height: 18.044729232788086px;
+font-weight: bold;
+/* padding-top: 60px; */
+color:#727171;
+letter-spacing: 0.3rem;
+margin-left:110px ;
+
+
+}
+.comman>.comman_details>.action{
+   padding-left: 190px; 
+   padding-top: 100px;
+   
+} 
+.comman>.comman_details>.action>.one{
+    gap: 20px;
+}
+.comman>.comman_details>.action>.two{
+    margin-left: 20px;
+}
+.comman>.comman_details>.action>.three{
+    margin-left: 20px;
+}
+.comman>.comman_details>.action>.four{
+    margin-left: 20px;
+}
+
+button{
+   
+    color: #DA3714;
+    background-color: #480D0D00;
+    border-radius: 23px;
+    border: 0.5px solid #DA3714;
+}
+section{
+    padding-bottom:20px ;
+    /* background-color: #111; */
+}
+section>h2{
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+
+}
